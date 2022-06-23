@@ -3,7 +3,7 @@ Hi 👋 My name is Scott Green
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [sagreenxyz@gmail.com](mailto:sagreenxyz@gmail.com)
-* ⚡  I will finish the Thrive-DX / Kansas State University Software Development Bootcamp in July, 2022
+* ⚡  I will finish the Thrive-DX (Hacker-U) / Kansas State University Software Development Bootcamp in July, 2022
 
 <a href="https://www.github.com/sagreenxyz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sagreenxyz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
