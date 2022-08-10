@@ -33,3 +33,5 @@ Hi 👋 My name is Scott Green
       branch codingbootcamp
       commit id: "ThriveDX-KSU"
 ```
+
+BTW, I'm Certified Lit 🔥🔥.  Ask for my credentials and references...
