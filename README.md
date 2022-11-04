@@ -36,11 +36,14 @@ BTW, I'm Certified Lit 🔥🔥.  Ask for my credentials and references...
 - AWS Certified Database - Specialty
 - AWS Certified Security - Specialty
 #### [Docker Fundamentals for Developers](https://app.pluralsight.com/paths/skill/docker-fundamentals-for-developers)
-- Getting Started with Docker ([Course](https://app.pluralsight.com/library/courses/getting-started-docker/table-of-contents)) ([Course Repository](https://github.com/nigelpoulton/gsd)) ([Fork](https://github.com/sagreenxyz/gsd))
+- Getting Started with Docker ([Course](https://app.pluralsight.com/library/courses/getting-started-docker/table-of-contents)) ([Course Repository](https://github.com/nigelpoulton/gsd)) ([Fork](https://github.com/sagreenxyz/gsd)) (Status: Completed 2022-11-03)
 - Building and Running Your First Docker App
 - Building and Orchestrating Containers with Docker Compose
 - Developing Docker Apps - Core Principles
 - Deploying Containerized Applications
+#### More Docker Courses
+- Developing Node.js Apps with Docker [Course](https://app.pluralsight.com/library/courses/nodejs-docker-developing-apps/table-of-contents) [Course Repository]() [Fork]()
+- Developing React.js Apps with Docker [Course](https://app.pluralsight.com/library/courses/reactjs-apps-docker-developing/table-of-contents) [Course Repo]() [Fork]()
 
 ## Skills
 - Linux (Ubuntu via WSL2) / Bash
