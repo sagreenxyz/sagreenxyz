@@ -43,7 +43,7 @@ BTW, I'm Certified Lit 🔥🔥.  Ask for my credentials and references...
 - Deploying Containerized Applications
 #### More Docker Courses
 - Developing Node.js Apps with Docker [Course](https://app.pluralsight.com/library/courses/nodejs-docker-developing-apps/table-of-contents) [Course Repository]() [Fork]()
-- Developing React.js Apps with Docker [Course](https://app.pluralsight.com/library/courses/reactjs-apps-docker-developing/table-of-contents) [Course Repo]() [Fork]()
+- Developing React.js Apps with Docker [Course](https://app.pluralsight.com/library/courses/reactjs-apps-docker-developing/table-of-contents) [Course Repo](https://github.com/saravanan75/docker_react) [Fork]()
 
 ## Skills
 - Linux (Ubuntu via WSL2) / Bash
