@@ -8,13 +8,51 @@ Hi 👋 My name is Scott Green
 
 BTW, I'm Certified Lit 🔥🔥.  Ask for my credentials and references...
 
+## Resources
+### Docker
+- [Play with Docker](https://labs.play-with-docker.com/)
+
 ## Training and Certifications
 ### ThriveDX / HackerU
 - [Software Development Bootcamp Professional Certificate (July 23, 2022)](ThriveDX_CompletionCertificate%20Green.pdf)
 ### [Zero-to-Mastery](https://academy.zerotomastery.io/)
 - [Certificate of Completion for Complete Web Developer in 2023: Zero to Mastery (November 2, 2022)](certificate-of-completion-for-complete-web-developer-in-2020-zero-to-mastery.pdf)
 - [Certificate of Completion for Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL): Zero to Mastery (In Process)]()
-
-## Resources
 ### [ui.dev](https://ui.dev/c)
+- Modern JavaScript
+- Advanced JavaScript
+- Classic React
+- React Query
+- React Hooks
+- React Router
+- TypeScript
+- React with TypeScript
+- Redux
 ### [Pluralsight](https://app.pluralsight.com/)
+#### AWS Certifications
+- AWS Certified Cloud Practitioner
+- AWS Certified Developer Associate
+- AWS Certified DevOps Engineer - Professional
+- AWS Certified Database - Specialty
+- AWS Certified Security - Specialty
+#### [Docker Fundamentals for Developers](https://app.pluralsight.com/paths/skill/docker-fundamentals-for-developers)
+- [Getting Started with Docker](https://app.pluralsight.com/library/courses/getting-started-docker/table-of-contents) #incomplete
+- Building and Running Your First Docker App
+- Building and Orchestrating Containers with Docker Compose
+- Developing Docker Apps - Core Principles
+- Deploying Containerized Applications
+
+## Skills
+- Linux (Ubuntu via WSL2) / Bash
+- HTML
+- CSS
+- JavaScript
+- React
+- Databases
+  - SQL
+    - SQL Server
+    - Postgresql (Sequelize, Prisma)
+    - SQLite3
+  - NoSQL
+    - MongoDB (Mongoose)
+    - 
