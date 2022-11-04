@@ -58,4 +58,7 @@ BTW, I'm Certified Lit 🔥🔥.  Ask for my credentials and references...
     - SQLite3
   - NoSQL
     - MongoDB (Mongoose)
-    - 
+- Other
+  - Nginx
+  - Redis
+  - Docker
