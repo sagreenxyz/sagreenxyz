@@ -14,9 +14,9 @@ BTW, I'm Certified Lit 🔥🔥.  Ask for my credentials and references...
 
 ## Training and Certifications
 ### ThriveDX / HackerU
-- [Software Development Bootcamp Professional Certificate (July 23, 2022)](ThriveDX_CompletionCertificate%20Green.pdf)
+- [Software Development Bootcamp Professional Certificate (July 23, 2022)](certifications/thrivedx/ThriveDX_CompletionCertificate%20Green.pdf)
 ### [Zero-to-Mastery](https://academy.zerotomastery.io/)
-- [Certificate of Completion for Complete Web Developer in 2023: Zero to Mastery (November 2, 2022)](certificate-of-completion-for-complete-web-developer-in-2020-zero-to-mastery.pdf)
+- [Certificate of Completion for Complete Web Developer in 2023: Zero to Mastery (November 2, 2022)](certifications/ztm/certificate-of-completion-for-complete-web-developer-in-2020-zero-to-mastery.pdf)
 - [Certificate of Completion for Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL): Zero to Mastery (In Process)]()
 ### [ui.dev](https://ui.dev/c)
 - Modern JavaScript
